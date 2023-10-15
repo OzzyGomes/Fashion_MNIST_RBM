@@ -1,5 +1,5 @@
 <!-- HTML Tags for GitHub README -->
-<h1>Fashion MNIST Image Classification using RBM - GitHub README</h1>
+<h1>Fashion MNIST Image Classification using RBM</h1>
 <p>This repository contains code for training and evaluating a Restricted Boltzmann Machine (RBM) for image classification on the Fashion MNIST dataset. The RBM is implemented using the 'RBM' package in R, and data manipulation is performed using 'dplyr'.</p>
 <h2>Table of Contents</h2>
 <ul>
